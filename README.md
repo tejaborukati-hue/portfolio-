@@ -19,7 +19,8 @@
             background:white;
             border-radius:10px;
             padding:20px;
-            box-shadow:
+            box-shadow:0px 0px 10px gray;
+        }
 
         #messages{
             height:300px;
